@@ -96,3 +96,9 @@ private/
 
 # Pickled Files
 *.pickle
+
+# image files
+*.svg
+
+#Excel files
+*.xlsx
