@@ -1,4 +1,4 @@
-# phenotypic_design
+# novel_two_stage
  
 This repo contains the source code for the analysis conducted in the research article:
 "Novel two-stage processes for optimal chemical production in microbes" - Kaushik Raj, Naveen Venayak, Radhakrishnan Mahadevan.
